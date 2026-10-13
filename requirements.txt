@@ -1,0 +1,12 @@
+langchain-classic
+langchain-community
+langchain-text-splitters
+langchain-chroma
+langchain-huggingface
+langchain-groq
+sentence-transformers
+python-dotenv
+ragas 
+trulens-eval 
+deepeval 
+datasets
